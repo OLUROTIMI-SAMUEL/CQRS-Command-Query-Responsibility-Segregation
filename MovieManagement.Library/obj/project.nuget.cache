@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "YdpKN81bd5zsTN3Kb/6VgmpL4oCQN/8y2+t0vdAdgHUhf3zS7HA9Pt7Wj8un7zeFJCo0xi+YMyJh0CfNIkWPPA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SAMUEL OLUROTIMI\\source\\repos\\MovieManagementCQRSDemo\\MovieManagement.Library\\MovieManagement.Library.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SAMUEL OLUROTIMI\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\SAMUEL OLUROTIMI\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.11\\microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\SAMUEL OLUROTIMI\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\SAMUEL OLUROTIMI\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.11\\microsoft.netcore.app.ref.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
